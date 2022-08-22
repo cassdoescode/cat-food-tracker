@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	background-color: gray;
+	font-family: "Comic Sans MS", monospace;
+}
+
+img {
+	justify-content: center;
+	width: auto;
+	height: 200px;
+}
+
+.hidden{
+	display: none;
+}
